@@ -109,7 +109,7 @@ const Wrapper = styled.main`
     }
 
     &__player-controls {
-      margin-top: 10%;
+      margin-top: 20%;
       display: flex;
       flex-direction: column;
       align-items: center;
@@ -117,7 +117,7 @@ const Wrapper = styled.main`
     }
 
     &__buttons {
-      margin-top: 4rem;
+      margin-top: 5rem;
       display: flex;
       width: 100%;
       justify-content: space-between;
