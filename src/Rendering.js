@@ -17,7 +17,7 @@ const RenderTracks = ({ tracks, index }) =>
   ))
 
 const Wrapper = styled.div`
-  margin-top: 2rem;
+  margin-top: 4rem;
   @media screen and (max-width: 415px) {
     margin-top: 0.5rem;
   }
