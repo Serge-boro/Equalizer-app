@@ -117,7 +117,7 @@ const Wrapper = styled.main`
     }
 
     &__buttons {
-      margin-top: 10rem;
+      margin-top: 15rem;
       display: flex;
       width: 100%;
       justify-content: space-between;
